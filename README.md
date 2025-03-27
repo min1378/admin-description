@@ -102,7 +102,8 @@
 강사에 필요한 필수값들을 입력해야 계정을 생성할 수 있습니다.
 
 ### 강사 상세 정보
-![image](https://github.com/user-attachments/assets/382ef39b-b779-47c6-865e-2475a0b6b1bf)
+![image](https://github.com/user-attachments/assets/fa4c4441-4d67-45ed-a4d8-0095ed9d01d2)
+
 - 강사 정보와 강사에 연결된 강의 정보를 확인할 수 있고 강의 월별 차트도 확인할 수 있습니다.
 
 #### 강의 연결하기
